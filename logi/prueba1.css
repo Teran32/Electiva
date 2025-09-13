@@ -1,0 +1,305 @@
+main{
+	display: flex;
+	background-color:#A9A9A9;
+	border-radius:10px;
+	height:700px;
+	margin-top:20px;
+	text-align: center;
+	background:rgba(128, 128, 128, 0.7);
+
+
+}
+.prueba1 img{
+	margin:0px;
+	width: 900px;
+	height: 170px;
+
+}
+
+.prueba2 h3{
+	font-size:20px;
+	font-family: cursive;
+
+}
+.prueba2 h2{
+	font-size:30px;
+	font-family: cursive;
+}
+.prueba2 img{
+	
+	margin: 0px;
+	padding: 0px;
+	width: 280px;
+	height: 180px;
+}
+.prueba2 a img{
+	border-bottom-left-radius: 10px;
+	border-top-left-radius: 10px;
+
+}
+.prueba2 i img{
+	border-bottom-right-radius: 10px;
+	border-top-right-radius: 10px;
+}
+.prueba2 p{
+	font-size:20px;
+
+}
+.seccion1{
+	margin-top:0px;
+	background-color: white;
+	text-align: left;
+	padding: 15px;
+	border-radius: 20px;
+	width:600px;
+	height: 500px;
+	
+
+}
+.seccion2{
+	background-color:white;
+	padding: 20px;
+	margin-top:5px;
+	border-radius: 20px;
+	width:800px;
+	height: 530px;
+	margin-left:15%;
+
+
+}
+.seccion3{
+	background-color:white;
+	padding: 15px;
+	margin-top:15px;
+	border-radius: 20px;
+	width:600px;
+	height: 500px;
+
+
+}
+
+.seccion4{
+	background-color: white;
+	padding: 15px;
+	margin-top:15px;
+	border-radius: 20px;
+	width:600px;
+	height: 500px;
+	
+	margin-left:05%;
+
+}
+
+.seccion5{
+	background-color: white;
+	padding: 15px;
+	margin-top:15px;
+	border-radius: 20px;
+	width:600px;
+	height: 500px;
+	
+}
+
+.seccion6{
+	background-color: white;
+	padding: 15px;
+	margin-top:15px;
+	border-radius: 20px;
+	width:600px;
+	height: 450px;
+	margin-left:10%;
+}
+.img1{
+	display: flex;
+}
+.img1 img{
+	margin-left: 100px;
+	padding:30px 40px;
+	width: 420px;
+	height: 420px;
+}
+
+
+.img2 {
+	display: flex;
+}
+.img2 img{
+	width: 420px;
+	height: 420px;
+	margin-top: 70px;
+	margin-left: 80px;
+}
+
+.img3{
+	display: flex;
+}
+.img3 img{
+	margin-left: 80px;
+	margin-top: 50px;
+	width: 420px;
+	height: 420px;
+
+}
+.img4{
+	display: flex;
+}
+.img4 img{
+	margin-top: 110px;
+	margin-left: 90px;
+	width: 420px;
+	height: 420px;
+}
+.img5{
+	display: flex;
+}
+.img5 img{
+	margin-left: 80px;
+	margin-top: 50px;
+	width: 420px;
+	height: 420px;
+}
+.img6{
+	display: flex;
+}
+.img6 img{
+	margin-top: 40px;
+	margin-left: 90px;
+	width: 420px;
+	height: 420px;
+}
+
+
+.dos{
+	background-color:#708090;
+	border-radius: 20px;
+	margin:20px;
+	margin-top:10px;
+	padding:4%;
+	background:rgba(128, 128, 128, 0.7);
+}
+.dos h1{
+	text-align: center;
+}
+}
+header{
+	background-color:#A9A9A9;	
+}
+.cont{
+	display: flex;
+	background-color:#A9A9A9;
+	text-align: center;
+}
+.cont a img{
+	width: 150px;
+	height: 150px;
+
+	}
+.cont i img{
+	margin-left:403px;
+	width: 150px;
+	height: 150px;
+
+}
+.cont h1{
+	margin-top:65px;
+	margin-left: 300px;
+	
+}
+header nav {
+	text-align: center;
+	background-color: white;
+	padding: 1px;
+	border-radius:5px;
+
+}
+header nav ul li{
+	margin-right: 1em;
+	display:inline;
+	list-style:none;
+}
+header nav ul li a{
+	color:black;
+	text-decoration:none;
+	background-color: blueviolet;
+	border-radius: 8px;
+	padding: 5px;
+}
+
+
+main section{
+	border-radius: 10px;
+	text-align: center;
+	margin:20px;
+	width:70%;
+
+	
+}
+main aside{
+	border-radius: 10px;
+	text-align: center;
+	margin:20px;
+	width:30%;
+	padding:5px;
+	background-image:url(2.jpg);
+	background-size:cover ;
+	background-repeat:no-repeat ;
+	justify-content: center;
+	
+}
+body{font-family:Arial-black,sans-serif;
+	background-color:#d0d3d4;
+	background-image: url(uno1.jpg);
+	background-size:cover ;
+	background-repeat:no-repeat ;
+	background-position:center ;
+	background-attachment: fixed;
+	justify-content: center;
+	
+}
+
+
+footer{
+	height:105px;
+	background-color:#D3D3D3;
+	margin-bottom:10px;
+	border-radius:10px;
+
+}
+	
+
+.derecha{
+	display: flex;
+	background-color: burlywood;
+
+
+
+
+.derecha1{
+	margin:auto;
+
+}
+.izquierda{
+	margin:auto;
+	
+}
+nav ul li{display:inline;
+	margin-right: 1em;
+	color: white;
+}
+.dos{
+	margin-top: 17px;
+	height: 38px;
+	width: 60%;
+}
+.tres{
+	margin-top: 18px;
+    width: 90%;
+	height: 41px;
+}
+.uno{
+	margin-top: 20px;
+	width: 100%;
+	height: 38px;
+	
+}
+

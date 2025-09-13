@@ -1,0 +1,23 @@
+body{
+	background-image: url(fondo1.jpg);
+    background-size:cover ;
+}
+
+main{
+    background-color: white;
+    width:100%;
+    border: none;
+}
+main div{
+    gap: 10px;
+    display: flex   ;
+}
+
+main div button{
+    width:150px;
+    height: 40px;
+}
+
+main div nav ul li{
+    list-style: none;
+}

@@ -1,0 +1,127 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+	text-decoration: none;
+	font-family: sans-serif;
+}
+img{
+	padding: 0px;
+	width: 50%;
+	
+}
+.dos{
+	border-radius: 100%;
+	margin-top: 30px;
+	height: 38px;
+	width: 14%;
+}
+.tres{
+    width: 25%;
+	height: 41px;
+}
+.uno{
+	border-radius: 100%;
+	width: 13%;
+	height: 38px;
+	
+}
+body{
+	background-image: url(fondo1.jpg);
+	background-size:cover ;
+	background-repeat:no-repeat ;
+	background-position:center ;
+	background-attachment: fixed;
+	justify-content: center;
+}
+main{
+
+	padding:50px;
+	border-radius:10px ;
+}
+
+main div button{
+	cursor: pointer;
+	margin-top: 20px;
+	width: 250px;
+	height:40px;
+	border-radius:13px ;
+	font-size:20px;
+	font-family: cursive;
+}
+
+main div h4{
+	margin-top:20px;
+	text-align:left ;
+
+}
+
+main div p{
+	margin-top: 10px;
+	text-align: right;
+	margin-right:20px ;
+
+}
+
+.input{
+	margin-top:5px ;
+	width:260px;
+	height: 37px;
+	border-radius: 15px;
+
+}
+.input::placeholder{
+	font-size:14px;
+	font-family: cursive;
+}
+.input1{
+	margin-top:5px ;
+	width:260px;
+	height: 37px;
+	border-radius: 15px;
+
+}
+.input1::placeholder{
+	font-size:14px;
+	font-family: cursive ;
+}
+
+
+.pru{
+	float: left;
+	margin-top: 10px;
+	font-size:15px;
+
+}
+div{
+	margin:auto;
+	margin-top: 10px;
+	width: 410px;
+	border-radius:10px ;
+	text-align: center;
+	background:rgba(128, 128, 128, 0.7);
+	padding:10px 50px;
+	height: 560px;
+	
+}
+a{
+	text-decoration: none;
+	color:#ffffff;
+	font-style: italic;
+	font-family:sans-serif;
+}
+p{	
+font-size:15px;
+}
+.icon{
+	position:absolute;
+	transform: translate(-39px,9px);
+	width: 28px;
+	border-radius: 100px;
+	opacity:0.5;
+	cursor: pointer;
+}
+
+
+
+

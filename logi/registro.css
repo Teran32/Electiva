@@ -1,0 +1,84 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+	text-decoration: none;
+	font-family: sans-serif;
+}
+img{
+	padding: 0px;
+	width: 42%;
+	
+}
+
+body{
+	background-image: url(fondo1.jpg);
+	background-size:cover ;
+	background-repeat:no-repeat ;
+	background-position:center ;
+	background-attachment: fixed;
+	justify-content: center;
+}
+main{
+	padding-bottom: 20px;
+	margin-top:10px ;
+}
+main div button{
+	cursor: pointer;
+	margin-top: 20px;
+	width: 250px;
+	height:40px;
+	border-radius:13px ;
+	font-size:20px;
+	font-family: cursive;
+}
+main div h4{
+	margin-top:20px;
+	text-align:left ;
+
+}
+.text, .cont, .confiCont, .input3{
+	border: solid black 1px;
+	margin-top:5px ;
+	width:260px;
+	height: 37px;
+	border-radius: 12px;
+
+}
+input::placeholder{
+	padding-left:5px ;
+	margin-left: 5px;
+	font-size: 15px;
+}
+div{
+	margin:auto;
+	width: 410px;
+	border-radius:10px ;
+	text-align: center;
+	background:rgba(128, 128, 128, 0.7);
+	padding:0px 20px 50px 30px;
+	height: 630px;
+	
+}
+.registroIco{
+	height: 50px;
+	margin-top: 10px;
+	transform: translate(-30px);
+	background: none;
+}
+.uno{
+	border-radius:25px ;
+	width: 40px;
+	height: 40px;
+}
+.dos{
+	border-radius:26px ;
+	width: 40px;
+	height:40px;
+}
+.tres{
+	border-radius:20px ;
+	width: 80px;
+	height: 40px;
+
+}
